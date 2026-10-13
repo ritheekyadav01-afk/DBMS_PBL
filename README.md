@@ -22,6 +22,8 @@ A relational database system in MySQL 8, normalized to 3NF, for managing hotel r
 | ER diagram | below, and [`docs/er_diagram.png`](./docs/er_diagram.png) |
 | Working prototype | [`review-3/`](./review-3) |
 | Video link document | [`video/VIDEO_LINK.md`](./video/VIDEO_LINK.md) |
+| HackerRank profile report (DOCX + PDF) | [`hackerrank/HackerRank_Ritheek_DBMS.docx`](./hackerrank/HackerRank_Ritheek_DBMS.docx), [`hackerrank/HackerRank_Ritheek_DBMS.pdf`](./hackerrank/HackerRank_Ritheek_DBMS.pdf) |
+| LeetCode profile report (DOCX + PDF) | [`leetcode/LeetCode_Ritheek_DBMS.docx`](./leetcode/LeetCode_Ritheek_DBMS.docx), [`leetcode/LeetCode_Ritheek_DBMS.pdf`](./leetcode/LeetCode_Ritheek_DBMS.pdf) |
 
 ## ER diagram
 
