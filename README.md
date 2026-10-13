@@ -143,6 +143,86 @@ erDiagram
     }
 ```
 
+## Screenshots
+
+All captured from the running prototype and the live MySQL database (`review-3/screenshots/`).
+
+**Front desk dashboard**
+
+![Front desk dashboard](./review-3/screenshots/w01_front_desk.png)
+
+**Reservation timeline**
+
+![Reservation timeline](./review-3/screenshots/w02_timeline.png)
+
+**Book a room**
+
+![Book a room](./review-3/screenshots/w03_book_room.png)
+
+**Booking confirmed**
+
+![Booking confirmed](./review-3/screenshots/w04_booking_confirmed.png)
+
+**Overlapping booking rejected by the database**
+
+![Overlapping booking rejected by the database](./review-3/screenshots/w05_overlap_rejected.png)
+
+**Capacity rule rejects too many occupants**
+
+![Capacity rule rejects too many occupants](./review-3/screenshots/w06_capacity_rejected.png)
+
+**Check-in**
+
+![Check-in](./review-3/screenshots/w07_checkin.png)
+
+**Service charge posted**
+
+![Service charge posted](./review-3/screenshots/w08_service_charge.png)
+
+**Housekeeping board**
+
+![Housekeeping board](./review-3/screenshots/w09_housekeeping.png)
+
+**Bill preview at check-out**
+
+![Bill preview at check-out](./review-3/screenshots/w10_bill.png)
+
+**Overpayment rejected by the database**
+
+![Overpayment rejected by the database](./review-3/screenshots/w11_overpay_rejected.png)
+
+**Invoice paid**
+
+![Invoice paid](./review-3/screenshots/w12_paid.png)
+
+**Guests**
+
+![Guests](./review-3/screenshots/w13_guests.png)
+
+**Reports**
+
+![Reports](./review-3/screenshots/w14_reports.png)
+
+**Command palette (Ctrl K)**
+
+![Command palette (Ctrl K)](./review-3/screenshots/w15_command_palette.png)
+
+**Database: 12 tables**
+
+![Database: 12 tables](./review-3/screenshots/d01_tables.png)
+
+**Database: view v_current_occupancy**
+
+![Database: view v_current_occupancy](./review-3/screenshots/d02_view.png)
+
+**Database: trigger rejects an overpayment and rolls back**
+
+![Database: trigger rejects an overpayment and rolls back](./review-3/screenshots/d03_trigger_rejection.png)
+
+**Database: triggers**
+
+![Database: triggers](./review-3/screenshots/d04_triggers.png)
+
 ## Repository layout
 
 ```
