@@ -5,9 +5,14 @@ Dandigam Ritheek · AI-ML · Woxsen University · Student ID 25WU0102057 · 2026
 
 A relational database system in MySQL 8, normalized to 3NF, for managing hotel rooms, reservations, guest stays, in-stay services, housekeeping and billing. Business rules are enforced inside the database (10 triggers, 8 CHECK constraints), and three front ends sit on top of it.
 
+> ### ▶ [Try it now: live demo (no install)](https://ritheekyadav01-afk.github.io/taj-ritheek/)
+> Opens in any browser and runs on built-in sample data, so no database is needed. The full MySQL-backed version is under [Run the prototype](#run-the-prototype) below.
+
+![Front desk](./review-3/screenshots/w01_front_desk.png)
+
 | | |
 |---|---|
-| **Live demo** | https://ritheekyadav01-afk.github.io/taj-ritheek/ (sample data runs in the browser) |
+| **Live demo** | [ritheekyadav01-afk.github.io/taj-ritheek](https://ritheekyadav01-afk.github.io/taj-ritheek/) (sample data runs in the browser) |
 | **Video presentation (5 min)** | see [`video/VIDEO_LINK.md`](./video/VIDEO_LINK.md) |
 | **Final report** | [`report/Final_Report.pdf`](./report/Final_Report.pdf) |
 
