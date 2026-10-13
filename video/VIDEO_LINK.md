@@ -11,6 +11,6 @@ Full walkthrough of the prototype and the final presentation.
 
 Other links:
 
-- Repository: https://github.com/ritheekyadav01-afk/dbms-hotel-pbl-review1
+- Repository: https://github.com/ritheekyadav01-afk/DBMS_PBL
 - Live demo: https://ritheekyadav01-afk.github.io/taj-ritheek/
 - Final report: [`../report/Final_Report.pdf`](../report/Final_Report.pdf)
