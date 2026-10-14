@@ -7,7 +7,7 @@ Full walkthrough of the prototype and the final presentation.
 
 **Watch (public Google Drive link, anyone with the link can view):**
 
-> https://drive.google.com/PASTE-YOUR-LINK-HERE
+> https://drive.google.com/file/d/1WVYEZcMLGI2k_3hPvNQ48zsS1HWm2O9S/view?usp=share_link
 
 Other links:
 
